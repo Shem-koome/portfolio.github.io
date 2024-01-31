@@ -134,6 +134,10 @@ section {
     margin: 2rem 0 4rem;
 }
 
+h6 {
+    font-size: 15px;
+}
+
 .btn-box {
     position: relative;
     display: flex;
