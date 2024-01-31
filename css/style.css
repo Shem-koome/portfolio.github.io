@@ -138,6 +138,12 @@ h6 {
     font-size: 15px;
 }
 
+.cv_link {
+    color: #00abf0;
+    text-decoration: none;
+    font-weight: bold;
+}
+
 .btn-box {
     position: relative;
     display: flex;
